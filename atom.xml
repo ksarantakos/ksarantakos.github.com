@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[There and back again]]></title>
+  <link href="http://kyri.org/atom.xml" rel="self"/>
+  <link href="http://kyri.org/"/>
+  <updated>2013-12-12T15:06:26-05:00</updated>
+  <id>http://kyri.org/</id>
+  <author>
+    <name><![CDATA[Kyri Sarantakos]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Stavros Learns He Is Passed Over For Golden Globe]]></title>
+    <link href="http://kyri.org/blog/2013/12/12/stavros-learns-he-is-passed-over-for-golden-globe/"/>
+    <updated>2013-12-12T14:36:00-05:00</updated>
+    <id>http://kyri.org/blog/2013/12/12/stavros-learns-he-is-passed-over-for-golden-globe</id>
+    <content type="html"><![CDATA[<p><img class="center" src="http://kyri.org/images/stavros.jpg" title="'Baby Stavros'" ></p>
+]]></content>
+  </entry>
+  
+</feed>
